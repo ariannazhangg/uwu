@@ -1,0 +1,6 @@
+class formulas {
+    public static void main (String [] args) {
+        System.out.println("NaN :3 sowwy code dowsen't wun uwu");
+         System.out.print("twy agwain next twime ;-;");
+    }
+}
